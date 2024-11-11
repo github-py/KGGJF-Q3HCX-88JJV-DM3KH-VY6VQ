@@ -1,3 +1,6 @@
 [submodule "98"]
 	path = 98
 	url = git@github.com:jdan/98.css.git
+[submodule "PVB6"]
+	path = PVB6
+	url = git@github.com:gabrielfalcao/Projetos-VB6.git
